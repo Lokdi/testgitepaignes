@@ -8,4 +8,5 @@
 <h2>test repository</h2>
 <h3>test add commit push</h3>
 <h4>Je suis sur la branche 4 </h4>
+<h4>Je suis sur une autre branche </h4>
 <?php include ('inc/footer.php'); ?>
